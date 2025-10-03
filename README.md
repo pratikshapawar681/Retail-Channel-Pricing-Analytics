@@ -37,4 +37,5 @@ This report highlights how the actual sale price differs from the product's base
 | Homeware | 1.00 | **6.67%** (Discount) |
 | Electronics | 0.00 | 0.00% |
 
+
 ***Insight:** The Homeware category was sold at an average 6.67% discount.*
